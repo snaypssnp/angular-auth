@@ -1,0 +1,40 @@
+{
+  "name": "angular-auth",
+  "version": "1.0.0",
+  "description": "Angular Auth",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snaypssnp/angular-auth.git"
+  },
+  "keywords": [
+    "angular",
+    "auth"
+  ],
+  "author": "snayps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snaypssnp/angular-auth/issues"
+  },
+  "homepage": "https://github.com/snaypssnp/angular-auth#readme",
+  "devDependencies": {
+    "angular": "^1.5.3",
+    "angular-ui-router": "^1.0.0-alpha.1",
+    "angularfire": "^1.2.0",
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "bootstrap": "^3.3.6",
+    "clean-webpack-plugin": "^0.1.8",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "firebase": "^2.4.2",
+    "html-loader": "^0.4.3",
+    "ng-annotate-webpack-plugin": "^0.1.2",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.14"
+  }
+}
